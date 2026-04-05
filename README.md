@@ -4,10 +4,6 @@
 [![Site](https://img.shields.io/badge/spoold.com-live-22c55e?style=flat-square&logo=googlechrome&logoColor=white)](https://spoold.com/tools/token-calculator)
 ![Free](https://img.shields.io/badge/price-free-22c55e?style=flat-square)
 ![Sign-up](https://img.shields.io/badge/sign--up-not%20required-64748b?style=flat-square)
-[![Source](https://img.shields.io/badge/code-open%20source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thespoold/spoold)
-
-[![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org)
-![Client-side](https://img.shields.io/badge/counting-client--side-0ea5e9?style=flat-square)
 
 **Free [LLM token calculator](https://spoold.com/tools/token-calculator)**: paste text to count **tokens** with **tiktoken-style** encodings (**cl100k_base**, **o200k_base**) or a fast **approximate** rule (UTF-8 bytes ÷ 4). See **words**, **characters**, and **illustrative** USD estimates for **input** and **expected output** tokens. **Token visualization** shows how the text splits into pieces (with preview / expand limits). **Compare costs** table pits illustrative rates across models. **No server round-trip** for counting — runs in the browser; **localStorage** persists your draft (`spoold-token-calculator`). **Not a billing quote** — confirm pricing with your provider.
 
